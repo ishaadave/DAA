@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/ishaadave/DAA/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ishaadave/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/ishaadave/DAA/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ishaadave/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Counting
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ishaadave/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ishaadave/DAA/tree/master/0191-number-of-1-bits) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/ishaadave/DAA/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -137,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishaadave/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishaadave/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishaadave/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/ishaadave/DAA/tree/master/0427-construct-quad-tree) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Design
 |  |
 | ------- |
@@ -198,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/ishaadave/DAA/tree/master/0372-super-pow) |
+## Prefix Sum
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
