@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/ishaadave/DAA/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ishaadave/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/ishaadave/DAA/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/ishaadave/DAA/tree/master/0427-construct-quad-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ishaadave/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishaadave/DAA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/ishaadave/DAA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
