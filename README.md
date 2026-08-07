@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/ishaadave/DAA/tree/master/0427-construct-quad-tree) |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaadave/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/ishaadave/DAA/tree/master/0372-super-pow) |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ishaadave/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -253,21 +255,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
