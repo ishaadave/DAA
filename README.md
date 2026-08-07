@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaadave/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ishaadave/DAA/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaadave/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/ishaadave/DAA/tree/master/1763-longest-nice-substring) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ishaadave/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ishaadave/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ishaadave/DAA/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishaadave/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ishaadave/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ishaadave/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Enumeration
 |  |
@@ -280,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
