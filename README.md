@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/ishaadave/DAA/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ishaadave/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0372-super-pow](https://github.com/ishaadave/DAA/tree/master/0372-super-pow) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ishaadave/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -230,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ishaadave/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
