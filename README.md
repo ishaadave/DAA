@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/ishaadave/DAA/tree/master/0427-construct-quad-tree) |
 | [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaadave/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ishaadave/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/ishaadave/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/ishaadave/DAA/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ishaadave/DAA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
