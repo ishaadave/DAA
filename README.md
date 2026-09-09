@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/ishaadave/DAA/tree/master/0932-beautiful-array) |
 | [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishaadave/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ishaadave/DAA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1140-stone-game-ii](https://github.com/ishaadave/DAA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ishaadave/DAA/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ishaadave/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ishaadave/DAA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ishaadave/DAA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
