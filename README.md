@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ishaadave/DAA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishaadave/DAA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishaadave/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/ishaadave/DAA/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ishaadave/DAA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/ishaadave/DAA/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishaadave/DAA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1323-maximum-69-number](https://github.com/ishaadave/DAA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ishaadave/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
