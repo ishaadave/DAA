@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [1710-maximum-units-on-a-truck](https://github.com/ishaadave/DAA/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ishaadave/DAA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ishaadave/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3537-fill-a-special-grid](https://github.com/ishaadave/DAA/tree/master/3537-fill-a-special-grid) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ishaadave/DAA/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/ishaadave/DAA/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/ishaadave/DAA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ishaadave/DAA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ishaadave/DAA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
