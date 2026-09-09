@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ishaadave/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/ishaadave/DAA/tree/master/0932-beautiful-array) |
+| [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/ishaadave/DAA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ishaadave/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/ishaadave/DAA/tree/master/0912-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ishaadave/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ishaadave/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/ishaadave/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ishaadave/DAA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/ishaadave/DAA/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/ishaadave/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ishaadave/DAA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ishaadave/DAA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/ishaadave/DAA/tree/master/0932-beautiful-array) |
+| [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1140-stone-game-ii](https://github.com/ishaadave/DAA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ishaadave/DAA/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ishaadave/DAA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -336,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ishaadave/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
