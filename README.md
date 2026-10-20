@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ishaadave/DAA/tree/master/0070-climbing-stairs) |
 | [0372-super-pow](https://github.com/ishaadave/DAA/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ishaadave/DAA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ishaadave/DAA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/ishaadave/DAA/tree/master/0976-largest-perimeter-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ishaadave/DAA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
