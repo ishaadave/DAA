@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ishaadave/DAA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ishaadave/DAA/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/ishaadave/DAA/tree/master/0654-maximum-binary-tree) |
+| [0746-min-cost-climbing-stairs](https://github.com/ishaadave/DAA/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/ishaadave/DAA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ishaadave/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ishaadave/DAA/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ishaadave/DAA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ishaadave/DAA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/ishaadave/DAA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ishaadave/DAA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ishaadave/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/ishaadave/DAA/tree/master/1137-n-th-tribonacci-number) |
